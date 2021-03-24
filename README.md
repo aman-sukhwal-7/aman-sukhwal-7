@@ -1,4 +1,4 @@
-###👋 Hi, I’m Aman Sukhwal
+### 👋 Hi, I’m Aman Sukhwal
 - 👀 I’m interesed in WEB Development 
 - 🌱 I’m currently learning React
 - 💬 Ask me about JavaScript and C++
