@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aman Sukhwal
+###👋 Hi, I’m Aman Sukhwal
 - 👀 I’m interesed in WEB Development 
 - 🌱 I’m currently learning React
 - 💬 Ask me about JavaScript and C++
@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love to play guitar / drums
 - 📫 How to reach me amansukhwal1@gmail.com
 
-### Tech Stack
+## Tech Stack
 - 💻 C++ 
 - 🌐 HTML5 CSS JavaScript Bootstrap Node.js React 
 - ⚙️ Git GitHub 
