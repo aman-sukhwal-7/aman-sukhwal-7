@@ -4,8 +4,9 @@
 - 💬 Ask me about JavaScript and C++
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar / drums
+- 💬 I regularly solve problems on LeetCode
 - 📫 How to reach me amansukhwal1@gmail.com
-
+  
 ## Tech Stack
 - 💻 C++ 
 - 🌐 HTML5 CSS JavaScript Bootstrap Node.js React 
